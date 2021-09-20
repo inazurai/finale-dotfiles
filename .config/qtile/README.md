@@ -19,8 +19,8 @@ pip install psutil
 Clone this repository and copy my configs:
 
 ```bash
-git clone https://github.com/antoniosarosi/dotfiles.git
-cp -r dotfiles/.config/qtile ~/.config
+git clone https://github.com/inazurai/finale-dotfiles
+cp -r finale-dotfiles/.config/qtile ~/.config
 ```
 
 Test it with **[Xephyr](https://wiki.archlinux.org/index.php/Xephyr)**:
